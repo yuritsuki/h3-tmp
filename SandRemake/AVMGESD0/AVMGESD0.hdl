@@ -1,0 +1,11 @@
+[Data]
+Type=3
+Shadow Type=2
+Group0=AVMgesd0.bmp|AVMgesd0.bmp|AVMgesd1.bmp|AVMgesd1.bmp|AVMgesd2.bmp|AVMgesd2.bmp|AVMgesd3.bmp|AVMgesd3.bmp|AVMgesd4.bmp|AVMgesd4.bmp|AVMgesd5.bmp|AVMgesd5.bmp|AVMgesd6.bmp|AVMgesd6.bmp|AVMgesd7.bmp|AVMgesd7.bmp|
+Shadow0=Shadow\AVMgesd0.bmp|Shadow\AVMgesd0.bmp|Shadow\AVMgesd1.bmp|Shadow\AVMgesd1.bmp|Shadow\AVMgesd2.bmp|Shadow\AVMgesd2.bmp|Shadow\AVMgesd3.bmp|Shadow\AVMgesd3.bmp|Shadow\AVMgesd4.bmp|Shadow\AVMgesd4.bmp|Shadow\AVMgesd5.bmp|Shadow\AVMgesd5.bmp|Shadow\AVMgesd6.bmp|Shadow\AVMgesd6.bmp|Shadow\AVMgesd7.bmp|Shadow\AVMgesd7.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$FF64FF|$FF32FF|$FF00FF|$00FFFF|$A49172|$AB9769|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$FF64FF|$FF32FF|$FF00FF|$00FFFF|$A49172|$AB9769|
+ColorsBox.ColorChecks=1|0|0|0|0|1|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

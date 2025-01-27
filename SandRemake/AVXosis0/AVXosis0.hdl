@@ -1,0 +1,11 @@
+[Data]
+Type=3
+Shadow Type=2
+Group0=AVXosis0.bmp|
+Shadow0=Shadow\AVXosis0.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$010704|$02170A|$FF00FF|$1A150C|$050C15|$061914|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$010704|$02170A|$FF00FF|$1A150C|$050C15|$061914|
+ColorsBox.ColorChecks=1|0|0|0|0|1|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

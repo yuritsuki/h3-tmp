@@ -1,0 +1,11 @@
+[Data]
+Type=3
+Shadow Type=2
+Group0=WFDR00.bmp|
+Shadow0=Shadow\WFDR00.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$02050A|$060C14|$FF00FF|$051208|$0A131B|$050B23|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$02050A|$060C14|$FF00FF|$051208|$0A131B|$050B23|
+ColorsBox.ColorChecks=1|0|0|0|0|1|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

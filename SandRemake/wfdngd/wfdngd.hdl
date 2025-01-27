@@ -1,0 +1,11 @@
+[Data]
+Type=3
+Shadow Type=2
+Group0=wfdngd1.bmp|wfdngd2.bmp|wfdngd3.bmp|wfdngd4.bmp|wfdngd5.bmp|wfdngd6.bmp|wfdngd7.bmp|
+Shadow0=Shadow\wfdngd1.bmp|Shadow\wfdngd2.bmp|Shadow\wfdngd3.bmp|Shadow\wfdngd4.bmp|Shadow\wfdngd5.bmp|Shadow\wfdngd6.bmp|Shadow\wfdngd7.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$000000|$081008|$FF00FF|$00FFFF|$000810|$100810|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$000000|$081008|$FF00FF|$00FFFF|$000810|$100810|
+ColorsBox.ColorChecks=1|0|0|0|0|1|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

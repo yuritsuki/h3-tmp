@@ -1,0 +1,11 @@
+[Data]
+Type=3
+Shadow Type=2
+Group0=AvLMtDs1.bmp|
+Shadow0=Shadow\AvLMtDs1.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$000409|$08120D|$FF00FF|$00FFFF|$050C15|$08111C|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$000409|$08120D|$FF00FF|$00FFFF|$050C15|$08111C|
+ColorsBox.ColorChecks=1|0|0|0|0|1|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|
